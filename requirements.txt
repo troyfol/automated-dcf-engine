@@ -1,0 +1,6 @@
+pandas
+numpy
+yfinance
+PyQt6
+XlsxWriter
+pyinstaller
