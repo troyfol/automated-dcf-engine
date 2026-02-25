@@ -50,3 +50,13 @@ To run from source:
 2. Create a Python 3.10 virtual environment.
 3. Install the dependencies from `requirements.txt`.
 4. Run `dcf.py`.
+
+## Disclaimer and Terms of Use
+
+**For Educational and Informational Purposes Only.** The software, code, and any generated outputs (including but not limited to DCF valuations, implied prices, and financial matrices) provided in this repository do not constitute financial, investment, legal, or tax advice. This project is a demonstration of applied statistics and automated data pipelines, and is not designed to be used as the basis for real-world trading or investment decisions.
+
+**No Liability.**
+The creator of this software is not a registered investment advisor, broker, or dealer. By using this software, you expressly agree that the creator bears no responsibility or liability for any financial losses, damages, or adverse consequences incurred as a result of relying on the calculations, methodologies, or data presented by this engine. 
+
+**Data Accuracy and "As-Is" Provision.**
+This tool relies on third-party APIs (such as `yfinance`) to extract raw financial data. There is no guarantee that this data is accurate, complete, real-time, or strictly aligned with GAAP/IFRS reporting standards. The code is provided "as is", without warranty of any kind, express or implied. Users assume all risks associated with the execution of this code and the interpretation of its outputs.
