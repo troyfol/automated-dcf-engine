@@ -32,8 +32,6 @@ The repository includes a sample output file demonstrating a Base vs. Bull case 
 The automated software instantly quantifies the exact free cash flow divergence between these two theses across the timeline, allowing for immediate analytical review.
 <img width="3838" height="2087" alt="DCF Engine Comparison Mode" src="https://github.com/user-attachments/assets/c3d543a5-99af-4e9f-adcc-c99832d03386" />
 
-<img width="2693" height="1760" alt="Live Excel Scenario Comparison Output" src="https://github.com/user-attachments/assets/3e918f40-6342-4025-8d05-7a47f777586b" />
-
 ## Technical Toolkit
 
 - **Quantitative Backend & ETL:** Python, Pandas, NumPy (Scripting facilitated via Agentic AI)
